@@ -12,3 +12,5 @@ echo "this is a product page by clone2 TestRep1";
 
 echo "this is a product page by clone1 TestRep";
 
+echo "product page by clone 1  "
+;
